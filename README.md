@@ -1,4 +1,4 @@
-# SOC Project 5 — Attack Simulation & Detection
+# SOC Project 5 — Network-Traffic-Analysis-Attack-Detection
 
 ## Overview
 
