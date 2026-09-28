@@ -78,3 +78,28 @@ Raw packet captures and evidence containing authentication information are retai
 ├── Evidence
 │   └── Sanitized Investigation Evidence
 └── README.md
+```
+## Key Skills Demonstrated
+
+- Wireshark
+- Network Traffic Analysis
+- Packet Analysis
+- Windows Security Event Analysis
+- SMB Investigation
+- NTLM Authentication Analysis
+- Network-to-Endpoint Correlation
+- Security Event Correlation
+- Detection Logic
+- Incident Investigation
+- Technical Documentation
+- Evidence Handling
+
+## MITRE ATT&CK
+
+Relevant activity was mapped to:
+
+**T1021.002 — SMB/Windows Admin Shares**
+
+## Disclaimer
+
+All security testing was performed in an isolated laboratory environment using systems and accounts created for testing purposes.
