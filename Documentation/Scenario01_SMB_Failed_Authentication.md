@@ -222,14 +222,10 @@ The activity is classified as a failed SMB authentication attempt rather than br
 
 Public evidence:
 
-- 02_Wireshark_SMB_Authentication_Failure.png
-- 03_Wireshark_SMB2_Status_Logon_Failure.png
-- 04_Windows_Event_4625_Failed_Logon.png
+- 01_Wireshark_SMB_Authentication_Failure.png
+- 02_Wireshark_SMB2_Status_Logon_Failure.png
+- 03_Windows_Event_4625_Failed_Logon.png
 
-Private evidence:
-
-- 01_Kali_SMB_Failed_Authentication.png
-- 05_SMB_Failed_Authentication.pcapng
 
 The raw PCAP is retained privately and is not intended for public GitHub publication.
 
